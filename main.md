@@ -43,7 +43,7 @@ Complexity as a factor of height: the recursive stages. On the most complex one 
 ![Recursive stages animated]({{ site.baseurl }}/images/81-felul.gif)
 
 ![Recursive stages animated]({{ site.baseurl }}/images/81-persp.gif)  
-Recursive four stages animated
+Recursive stages animated
 
 ![The increase of complexity can be observed better when the different stages are side by side scaled to the same size]({{ site.baseurl }}/images/complexity.png)  
 The increase of complexity can be observed better when the different stages are side by side scaled to the same size
