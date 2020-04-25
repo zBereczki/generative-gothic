@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![3D printed]({{ site.baseurl }}/images/3D-print.jpg)
+![3D printed]({{ site.baseurl }}/images/landing.jpg)

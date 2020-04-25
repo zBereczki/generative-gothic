@@ -1,0 +1,15 @@
+---
+layout: page
+title: Related publications
+permalink: /publications/
+---
+
+- “Hans Hammer’s sketchbook and the building technology of the late Gothic: A preliminary assessment,” *Pollack Periodica,* vol. 8, no. 2, pp. 3–12, 2013.
+- Z. Bereczki, “The south tower of the Strasbourg Cathedral and the drawings of Hans Hammer,” in *II. Interdiszciplináris Doktorandusz Konferencia 2013,* Pécs: Pécsi Tudományegyetem Doktorandusz Önkormányzat, 2014, pp. 633–646.
+- Z. Bereczki, “The structural analysis of the (demolished) medieval system of St. Elisabeth’s church in Kassa,” *Pollack Periodica,* vol. 9, no. 3, pp. 127–138, Dec. 2014. [https://www.researchgate.net/publication/277936483_The_structural_analysis_of_the_demolished_medieval_system_of_St_Elisabeth's_Church_in_Kassa](https://www.researchgate.net/publication/277936483_The_structural_analysis_of_the_demolished_medieval_system_of_St_Elisabeth's_Church_in_Kassa) 
+- “The reconstruction of the Bratislava Franciscan Monastery’s tower in the 19th century. Pyramid or dome?” *Ars,* vol. 48, no. 1, pp. 95–105, 2015. [https://www.researchgate.net/publication/335340228_The_reconstruction_of_the_Bratislava_Franciscan_Monastery's_tower_in_the_19th_century_Pyramid_or_dome](https://www.researchgate.net/publication/335340228_The_reconstruction_of_the_Bratislava_Franciscan_Monastery's_tower_in_the_19th_century_Pyramid_or_dome)
+- “Gótikus tornyok építésének kérdéséhez. Mit mondanak a megvalósult épületek a tervezésről, mit mondanak a tervek a megvalósulásról?” Ph.D. thesis, University of Pécs, 2017. [https://pea.lib.pte.hu/handle/pea/16346](https://pea.lib.pte.hu/handle/pea/16346)
+- “Aratás és szüret: A későgótikus építészetről,” *Miskolci Keresztény Szemle,* vol. XIV, no. 54, pp. 81–88, 2018. [https://www.researchgate.net/publication/335452737_Aratas_es_szuret_a_kesogotikus_epiteszetrol](https://www.researchgate.net/publication/335452737_Aratas_es_szuret_a_kesogotikus_epiteszetrol)
+- “From Parchment to 3D to HTML: The Use of the 3D and the Web in Architectural History Research (a case study),” in *Proceedings of the 4th International Interdisciplinary 3D Conference,* Pécs: University of Pécs, 2018, pp. 107–112. [https://www.researchgate.net/publication/335340121_From_Parchment_to_3D_to_HTML_The_Use_of_the_3D_and_the_Web_in_Architectural_History_Research_a_case_study](https://www.researchgate.net/publication/335340121_From_Parchment_to_3D_to_HTML_The_Use_of_the_3D_and_the_Web_in_Architectural_History_Research_a_case_study)
+- “A kassai Szent Erzsébet-templom – kontármunka, vagy mestermű?” in *Te mit tettél hozzá?,* P. Berkő, K. Szabó-Tóth, and G. Patkó, Eds. Miskolc: Magyar Tudományos Akadémia Miskolci Területi Bizottsága, 2018, pp. 222–224.
+- “Construction of a Gothic tower,” 2019. [Online]. [https://zbereczki.github.io/gothic-construction/](https://zbereczki.github.io/gothic-construction/)
