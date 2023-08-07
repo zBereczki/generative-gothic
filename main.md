@@ -45,7 +45,7 @@ Complexity as a factor of height: the recursive stages. On the most complex one 
 ![Recursive stages animated]({{ site.baseurl }}/images/81-persp.gif)  
 Recursive stages animated
 
-![The increase of complexity can be observed better when the different stages are side by side scaled to the same size]({{ site.baseurl }}/images/complexity.png)  
+![The increase of complexity can be observed better when the different stages are side by side scaled to the same size]({{ site.baseurl }}/images/complexity.jpg)  
 The increase of complexity can be observed better when the different stages are side by side scaled to the same size
 
 ![The 1st, 4th and 7th tower of the previous image scaled to the same size and 3D printed. The printing was concluded at the University of Debrecen, Department of Civil Engineering]({{ site.baseurl }}/images/3D.JPG)  
