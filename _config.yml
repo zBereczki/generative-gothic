@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Generative Gothic
-author: Bereczki Zoltán
+author: [Bereczki Zoltán](https://www.researchgate.net/profile/Zoltan-Bereczki-3)
 # email:
 description: > # this means to ignore newlines until "baseurl:"
   Research project by Dr. Bereczki Zoltán PhD, Miskolc, Hungary
